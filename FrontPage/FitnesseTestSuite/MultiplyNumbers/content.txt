@@ -1,0 +1,8 @@
+!contents -R2 -g -p -f -h
+
+|import      |
+|com.Fitnesse|
+
+!|MultiplyNumbers      |
+|Num1|Num2|MultiplyNum?|
+|2   |5   |-3.0        |

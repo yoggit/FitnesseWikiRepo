@@ -1,0 +1,8 @@
+!contents -R2 -g -p -f -h
+
+|import      |
+|com.Fitnesse|
+
+!|AddNumbersFit   |
+|Num1|Num2|AddNum?|
+|2   |5   |7.0    |
