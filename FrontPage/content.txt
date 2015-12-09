@@ -15,10 +15,11 @@ To add your first "page", click the [[Edit][.FrontPage?edit]] button and add a [
 !contents -R2 -g -p -f -h
 
 !define TEST_SYSTEM {slim}
+
 !path lib/*.jar
 !path lib\*.jar
 
-!path C:\GitRepository\GitHub\FitnesseProject\target\test-classes
+!path C:\Jenkins\workspace\FitnesseProjectBuild\target\test-classes
 
 >FitnesseTestSuite
 
